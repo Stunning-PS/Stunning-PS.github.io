@@ -16,7 +16,6 @@ date : 2021-03-09
   - [알고리즘 구현 순서](#알고리즘-구현-순서)
   - [예시 문제](#예시-문제)
   - [Summary](#Summary)
-  - [참고자료](참고자료)
 
 # 벨만-포드 알고리즘
 
@@ -173,8 +172,7 @@ int main(){
 4. 모두 다 체크하는 방식으로 다익스트라 알고리즘보다 비효율적
 
 
-## 참고자료
+> Reference
 
-[컴퓨터 알고리즘 기초 17강 벨만-포드 알고리즘 | T아카데미](https://youtu.be/PIT-aYPPPIQ)
-
-[벨만-포드 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/27/bellmanford/)
+- <https://youtu.be/PIT-aYPPPIQ>
+- <https://ratsgo.github.io/data%20structure&algorithm/2017/11/27/bellmanford/>
