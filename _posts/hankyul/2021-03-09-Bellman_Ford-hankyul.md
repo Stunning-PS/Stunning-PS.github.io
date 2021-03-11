@@ -71,7 +71,7 @@ date : 2021-03-09
 
 ### Relaxation
 
-![bell3](./img/bell3.png)
+![bell3](img/bell3.png)
 
 벨만-포드 알고리즘의 주요한 2번째 특징은 바로 **Relaxation** 이다.
 
