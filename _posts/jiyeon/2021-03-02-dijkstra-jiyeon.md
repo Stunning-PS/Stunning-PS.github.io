@@ -1,6 +1,6 @@
 ---
 title : 다익스트라 최단경로 알고리즘
-tags : 다익스트라
+tags : 다익스트라, 최단경로
 layout : article
 author : Jiyeon Lee
 mathjax : true
