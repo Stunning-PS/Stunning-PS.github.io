@@ -8,13 +8,12 @@ date : 2021-03-25
 ---
 
 
-- [Knapsack 문제](#Two-Pointers)
+- [Two-Pointer 알고리즘](#Two-Pointers)
   - [Two-Pointer 문제](#Two-Pointer-문제)
   - [코드](#Two-Pointer-코드)
   
 
 ## Two-Pointers
-
 ---
 
 - Two Pointers는 뜻 그래도 2개의 포인터를 조작해 문제를 해결하는 알고리즘이다.
@@ -22,7 +21,6 @@ date : 2021-03-25
 - Two-Pointer 알고리즘 같은 경우 개념이나 이론이 크게 존재하지 않기 때문에 문제를 통해 이해하는 것이 가장 좋디
 
 ### Two-Pointer 문제
-
 ---
 
 [2003번: 수들의 합 2](https://www.acmicpc.net/problem/2003)
@@ -59,7 +57,6 @@ date : 2021-03-25
         - 부분 배열의 합 = 구해야하는 값일 경우 경우의 수를 증가시킴
 
 ### Two-Pointer 코드
-
 ---
 
 ```java
