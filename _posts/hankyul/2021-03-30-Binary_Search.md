@@ -54,7 +54,7 @@ let right = arr.length-1;
 let left = 0;
 
 while(left <= right) {
-	let mid = (right+left) / 2;
+	let mid = Math.floor((right+left) / 2);
 	if(arr[mid] === key)
 		return mid;
 	else if(arr[mid] < key)
